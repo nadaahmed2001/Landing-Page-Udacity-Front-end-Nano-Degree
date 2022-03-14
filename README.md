@@ -2,7 +2,6 @@
 This is the second project for Udacity Front End Developer Nanodegree
 
 -------------------------------------
-
 # Features made:
 -All features are usable across modern desktop, tablet, and phone browsers.
 -There are 4 sections have been added to the page.
@@ -10,7 +9,6 @@ This is the second project for Udacity Front End Developer Nanodegree
 -highlight sections when Hovered or scrolled.
 
 -------------------------------------
-
 -The project is made for Udacity's Front End Web Developer Nanodegree.
 
 -------------------------------------
