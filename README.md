@@ -1,5 +1,6 @@
 # "Landing Page" Project
 This is the second project for Udacity Front End Developer Nanodegree
+-------------------------------------
 
 # Features made:
 -All features are usable across modern desktop, tablet, and phone browsers.
@@ -7,7 +8,8 @@ This is the second project for Udacity Front End Developer Nanodegree
 -When clicking an item from the navigation menu, the link scrolls to the appropriate section. 
 -highlight sections when Hovered or scrolled.
 
-The project is made for Udacity's Front End Web Developer Nanodegree.
-
+-------------------------------------
+-The project is made for Udacity's Front End Web Developer Nanodegree.
+-------------------------------------
 # Author
 The code was written by Nada Ahmed, based on starter code given for the project by Udacity.
