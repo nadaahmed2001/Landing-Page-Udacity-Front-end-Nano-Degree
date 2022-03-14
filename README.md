@@ -1,5 +1,6 @@
 # "Landing Page" Project
 This is the second project for Udacity Front End Developer Nanodegree
+
 -------------------------------------
 
 # Features made:
@@ -9,7 +10,9 @@ This is the second project for Udacity Front End Developer Nanodegree
 -highlight sections when Hovered or scrolled.
 
 -------------------------------------
+
 -The project is made for Udacity's Front End Web Developer Nanodegree.
+
 -------------------------------------
 # Author
 The code was written by Nada Ahmed, based on starter code given for the project by Udacity.
